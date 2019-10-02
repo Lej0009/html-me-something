@@ -73,15 +73,9 @@ footer p {
     width:500px
 }
 
-.education {
-    float:left;
-    width:200px
-}
-
-.bootcamp {
-    float:left;
-    clear:left;
-    width:200px
+aside {
+    float: left;
+    width: 200px;
 }
 
 footer {
