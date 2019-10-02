@@ -1,14 +1,15 @@
 html,body {
-    margin:0;padding:0
+    margin:0;
+    padding:0;
 }
 
 body {
-    font: 76% arial,sans-serif;
-    text-align:center
+    font: 80% "Poppins", sans-serif;
+    text-align:center;
 }
 
 p {
-    margin:0 10px 10px
+    margin:0 10px 10px;
 }
 
 a {
@@ -18,7 +19,8 @@ a {
 }
 
 header {
-    background-color: #F3F2ED;
+    background-color: #E0F3F5;
+    text-align: center;
 }
 
 header h1 {
@@ -29,15 +31,15 @@ header h1 {
 }
 
 .container {
-    text-align:left
+    text-align:left;
 }
 
 .content p {
-    line-height:1.4
+    line-height:1.4;
 }
 
 .education {
-    background: #F6F0E0;
+    background: #E0F3F5;
 }
 
 .education ul {
@@ -51,11 +53,11 @@ header h1 {
 }
 
 .bootcamp {
-    background:#CCC8B3;
+    background:#B8E1E8;
 }
 
 footer {
-    background:#BFBD93;
+    background:#B8E1E8;
 }
 
 footer p {
@@ -64,13 +66,13 @@ footer p {
 }
 
 .container {
-    width:700px;
+    width:750px;
     margin:0 auto
 }
 
 .content {
     float:right;
-    width:500px
+    width:550px
 }
 
 aside {
@@ -81,6 +83,10 @@ aside {
 footer {
     clear:both;
     width:100%;
+}
+
+.contact {
+    background-color: #E0F3F5;
 }
 
 
